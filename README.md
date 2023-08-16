@@ -1,10 +1,10 @@
 <div align="center">
     <table height="auto">
         <td>
-            <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=73710&show_icons=true&theme=radical&count_private=true"/>
+            <img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=73710&show_icons=true&theme=radical&count_private=true"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=73710&show_icons=true&theme=radical&count_private=true"/>
+            <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=73710&show_icons=true&theme=radical&count_private=true"/>
         </td>
     </table>
 </div> 
