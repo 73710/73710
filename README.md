@@ -32,7 +32,7 @@
 </div>
   
 <div align=center>
-<h3>💻  Sou desenvolvedor </h3>
+<h3>💻  Desenvolvedor </h3>
 <h3>🔗  Graduando em Defesa Cibernética </h3> 
 </div>
 
